@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vh;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.eye-container {
+    left: 5em;
+}
+
+.eyes {
+    position: absolute;
+}
+
+#left-eye {
+    top: 300px;
+    left: 180px;
+}
+
+#right-eye {
+    top: 300px;
+    left: 350px;
+}
